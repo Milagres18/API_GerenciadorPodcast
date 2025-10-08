@@ -9,12 +9,6 @@
 
 ---
 
-## 📸 Preview (opcional)
-
-<img src="https://via.placeholder.com/800x200.png?text=API+de+Gerenciamento+de+Podcasts" alt="banner do projeto" />
-
----
-
 ## 🚀 Funcionalidades
 
 - 🔍 Filtro de podcasts por:
